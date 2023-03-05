@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lol-aram-mmr.iml" filepath="$PROJECT_DIR$/.idea/lol-aram-mmr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lol-match-analysis/.idea/lol-match-analysis.iml" filepath="$PROJECT_DIR$/../lol-match-analysis/.idea/lol-match-analysis.iml" />
     </modules>
   </component>
 </project>
